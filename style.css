@@ -839,11 +839,6 @@ footer {
     font-size: 3rem;
   }
 
-  /* Question Container */
-  .question-container {
-    margin-top: 70em;
-  }
-
   .question-header {
     margin-top: 5em;
     flex-direction: column;
